@@ -22,3 +22,5 @@ Database Integration: User login data and access records are securely stored and
 Web Interface: Simple, responsive UI for authorized users to access detection results.
 
 This project demonstrates the integration of machine learning, web development, and database systems to build a practical safety tool.
+
+NOTE: CHANGE THE NAME OF THE DATABASE YOU CREATED IN PHPMYADMIN IN THE PHP SERVER CODE,

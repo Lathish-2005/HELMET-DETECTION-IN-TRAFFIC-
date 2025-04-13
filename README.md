@@ -23,4 +23,6 @@ Web Interface: Simple, responsive UI for authorized users to access detection re
 
 This project demonstrates the integration of machine learning, web development, and database systems to build a practical safety tool.
 
-NOTE: CHANGE THE NAME OF THE DATABASE YOU CREATED IN PHPMYADMIN IN THE PHP SERVER CODE,
+NOTE: IN THE "server.php" code , in the line :
+"// connect to the database
+ $db = mysqli_connect('localhost', 'root', '', 'project');" , MAKE SURE TO CHANGE THE DATABASE NAME YOU CREATED IN PHPMYADMIN DATABASE.
